@@ -20,3 +20,26 @@
 **Sacral fODF**
 ![Sacral fODF Video](https://github.com/user-attachments/assets/ac0719fc-6ec3-4187-9822-0604374521ea)
 
+<h2>Cervical fODF</h2>
+<video controls preload="metadata" width="720">
+  <source src="https://github.com/user-attachments/assets/bdd12c2a-0f23-4bfe-b3de-eae171bbbe3b" type="video/mp4" />
+  <a href="https://github.com/user-attachments/assets/bdd12c2a-0f23-4bfe-b3de-eae171bbbe3b">Download video</a>
+</video>
+
+<h2>Thoracic fODF</h2>
+<video controls preload="metadata" width="720">
+  <source src="https://github.com/user-attachments/assets/6bdc1b2f-a060-49e9-b3de-66266d19a799" type="video/mp4" />
+  <a href="https://github.com/user-attachments/assets/6bdc1b2f-a060-49e9-b3de-66266d19a799">Download video</a>
+</video>
+
+<h2>Lumbar fODF</h2>
+<video controls preload="metadata" width="720">
+  <source src="https://github.com/user-attachments/assets/b9b71706-d45a-4924-8e28-1f6e0617b2eb" type="video/mp4" />
+  <a href="https://github.com/user-attachments/assets/b9b71706-d45a-4924-8e28-1f6e0617b2eb">Download video</a>
+</video>
+
+<h2>Sacral fODF</h2>
+<video controls preload="metadata" width="720">
+  <source src="https://github.com/user-attachments/assets/ac0719fc-6ec3-4187-9822-0604374521ea" type="video/mp4" />
+  <a href="https://github.com/user-attachments/assets/ac0719fc-6ec3-4187-9822-0604374521ea">Download video</a>
+</video>
