@@ -2,3 +2,10 @@
 
 
 ![CNN_GM_prediction_prior_and_post](https://github.com/user-attachments/assets/614b9da9-910c-4be1-bf08-b4b4a6e8cab6)
+
+
+
+
+# Lumbar fODF GIF
+https://github.com/user-attachments/assets/17edea36-d87e-40da-8a68-d9280d618df0
+
