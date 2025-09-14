@@ -5,36 +5,3 @@
 
 
 # Neurite Microstructure:
-![Upload<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1296pt" height="864pt" viewBox="0 0 1296 864" xmlns="http://www.w3.org/2000/svg" version="1.1">
- <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-09-13T13:57:17.205385</dc:date>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
-     </cc:Agent>
-    </dc:creator>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="figure_1">
-  <g id="patch_1">
-   <path d="M 0 864 
-L 1296 864 
-L 1296 0 
-L 0 0 
-z
-" style="fill: #ffffff"/>
-  </g>
-  <g id="axes_1">
-   <g clip-path="url(#p6db12ac60b)">
-    <image xlink:href="data:image/png;base64,
