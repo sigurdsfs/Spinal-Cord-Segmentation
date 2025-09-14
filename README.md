@@ -6,7 +6,9 @@
 
 
 # Neurite Microstructure:
-![Combined_csd_odfs_FRONTPAGE_big](https://github.com/user-attachments/assets/229f99b5-6be1-4c8b-a89f-6cf4f8d95149)![alt text]
+![Combined_csd_odfs_FRONTPAGE_big](https://github.com/user-attachments/assets/229f99b5-6be1-4c8b-a89f-6cf4f8d95149)
+
+Below you will find links to a video of fODF for each segment group.
 
 **Cervical fODF**
 ![Cervical fODF Video](https://github.com/user-attachments/assets/bdd12c2a-0f23-4bfe-b3de-eae171bbbe3b)
