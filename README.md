@@ -1,6 +1,6 @@
 # Multimodal dwMRI and fluoresence microscopy mapping of neuire microstructure.
 
-![fODF + ST](Figures/Figure 6 Side by Side (fODF, ST).jpg)
+![Figures/Figure 6 Side by Side (fODF, ST).jpg](https://github.com/sigurdsfs/Spinal-Cord-Segmentation/blob/f5198344caba54907b2585de5ba7b6784ea170e8/Figures/Figure%206%20Side%20by%20Side%20(fODF%2C%20ST).jpg)
 
 
 # CNN Segmentation Model and Metrics
